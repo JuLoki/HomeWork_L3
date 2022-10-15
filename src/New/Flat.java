@@ -1,5 +1,3 @@
-package New;
-
 public class Flat {
     static public void main(String[] args) {
         for (String FlateState : args) {
