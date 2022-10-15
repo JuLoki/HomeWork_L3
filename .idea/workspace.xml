@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5b1370-5913-4e63-b876-c2d439ec1120" name="Changes" comment="new java project" />
+    <list default="true" id="0a5b1370-5913-4e63-b876-c2d439ec1120" name="Changes" comment="new java project2">
+      <change afterPath="$PROJECT_DIR$/src/Warning_Alart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,14 +48,14 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Meal">
+  <component name="RunManager" selected="Application.Warning_Alart">
     <configuration name="Flat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="New.Flat" />
+      <option name="MAIN_CLASS_NAME" value="HW3.Flat" />
       <module name="Flat" />
       <option name="PROGRAM_PARAMETERS" value="isMoney search check permission" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="New.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +69,7 @@
       <option name="PROGRAM_PARAMETERS" value="hungry reception noingridience" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW3.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,7 +84,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Warning_Alart" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warning_Alart" />
+      <module name="Flat" />
+      <option name="PROGRAM_PARAMETERS" value="goOff noCancel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Warning_Alart" />
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.Meal" />
       <item itemvalue="Application.Flat" />
